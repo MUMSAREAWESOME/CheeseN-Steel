@@ -1,0 +1,7 @@
+Log Start:
+Created Player!
+Created Item!
+Created Sword!
+Destroyed Player!
+Destroyed Sword!
+Destroyed Item!
